@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_padding">75dip</dimen>
+    <dimen name="large_padding">150dip</dimen>
+    <dimen name="largest_padding">220dip</dimen>
+    <dimen name="medium_padding">110dip</dimen>
+    <dimen name="small_padding">60dip</dimen>
+    <dimen name="text_padding">300dip</dimen>
+    <dimen name="margin">2dip</dimen>
+    <dimen name="button_font_size">20sp</dimen>
+</resources>
